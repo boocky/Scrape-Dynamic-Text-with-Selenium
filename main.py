@@ -1,3 +1,7 @@
+# Description
+# The script scrape simple text inside h1 element and displays it in the script
+# as output
+
 from selenium import webdriver
 
 def get_driver():
@@ -22,3 +26,4 @@ def main():
 
 print(main())
 
+# 
