@@ -25,5 +25,3 @@ def main():
   return element.text
 
 print(main())
-
-# 
